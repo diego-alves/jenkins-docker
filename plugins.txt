@@ -10,10 +10,12 @@ delivery-pipeline-plugin:0.9.12
 disk-usage:0.25
 gradle:1.24
 jacoco:2.0.1
+jquery:1.7.2-1
 naginator:1.17.1
 parameterized-trigger:2.25
 rebuild:1.25
-rpm-uploader:1.4
+run-condition:1.0
 shared-workspace:1.0.1
 slack:1.7
 ssh:2.4
+token-macro:1.9
